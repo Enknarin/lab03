@@ -35,13 +35,17 @@
  }
 
  .activeCard {
-  color: rgb(0, 195, 255);
-  background: rgb(217, 255, 0);
+  color: rgb(8, 8, 8);
+  background: rgb(0, 255, 21);
  }
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+ .App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: rgb(168, 208, 241);
+}
+.App-title {
+  font-size: 2.5em;
 }
 
 
